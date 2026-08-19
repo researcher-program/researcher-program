@@ -79,7 +79,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="user-scalable=no">
-    <title>volumeshader_bm</title>
+    <title>
+      volumeshader_bm
+    </title>
     <style>
         body {
             background: #131115;
